@@ -1,0 +1,6 @@
+78 Isabela 550.0
+57 André 200.0
+75 Edmar 288000.0
+13 Marileide 500.0
+97 Cláudia 1500.0
+12 Cida 55.0
